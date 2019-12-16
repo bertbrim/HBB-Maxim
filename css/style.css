@@ -126,20 +126,6 @@ a.scrollup i:hover {
 	margin-bottom:0;
 }
 
-/* Mobile Nav Bar - Fix to Top */
-@media (max-width: 991px) {
-  .navbar-fixed-top {
-      position: fixed;
-      top: auto;
-  }
-  .navbar-collapse {
-      max-height: none;
-  }
-  body {
-      margin: 0;
-  }
-}
-
 
 /*---------- forms ----------*/
 
